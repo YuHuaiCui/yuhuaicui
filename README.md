@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhuaicui&show_icons=true&locale=en" alt="yuhuaicui" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yuhuaicui?theme=nord)](https://leetcode.com/yuhuaicui)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yuhuaicui?theme=unicorn)](https://leetcode.com/yuhuaicui)
