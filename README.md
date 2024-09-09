@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Cui</h1>
+<h1 align="center">Hi 👋, I am Daniel Cui</h1>
 <h3 align="center">An aspiring full stack software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhuaicui&label=Profile%20views&color=0e75b6&style=flat" alt="yuhuaicui" /> </p>
