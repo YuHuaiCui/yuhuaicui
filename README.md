@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuhuaicui&show_icons=true&locale=en&layout=compact" alt="yuhuaicui" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/yuhuaicui?theme=unicorn)](https://leetcode.com/yuhuaicui)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhuaicui&show_icons=true&locale=en" alt="yuhuaicui" /></p>
