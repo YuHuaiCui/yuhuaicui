@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I am Daniel Cui</h1>
-<h3 align="center">An aspiring full stack software developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhuaicui&label=Profile%20views&color=0e75b6&style=flat" alt="yuhuaicui" /> </p>
-
-- 🌱 I’m currently learning **Javascript and React via online courses.**
 
 - 📫 How to reach me **hello@dcui.dev**
 
